@@ -1,10 +1,10 @@
 # Домашнее задание к лекции 1 «Основные понятия»
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/123e42e51abae9fd57681cf6ad6b5caf30f31540/1.base-concepts/task.js">task.js</a>. - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/1.base-concepts/task.js">task.js</a>. - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/123e42e51abae9fd57681cf6ad6b5caf30f31540/1.base-concepts">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/netology-code/bjs-2-homeworks/blob/2b7693e87f35601141b714e68e2cfda9452c53cb/1.base-concepts/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/1.base-concepts">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/1.base-concepts/index.html">index.html</a>.
 
 ## Что было сделано
 * Реализована функция для решения квадратных уравнений.
