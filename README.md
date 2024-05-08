@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 1 «Основные понятия»
+# «Основные понятия»
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/1.base-concepts/task.js">task.js</a>. - код с реализованными функциями.
